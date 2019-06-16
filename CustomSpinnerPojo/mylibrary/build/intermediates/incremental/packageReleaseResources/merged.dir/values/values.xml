@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorGray">#707070</color>
+    <color name="colorWhite">#DDDD</color>
+    <color name="colorWhiteSecondary">#AAAAAA</color>
+    <color name="textColor">#161616</color>
+    <string name="app_name">My Library</string>
+    <declare-styleable name="CustomSpinnerPojo">
+        <attr format="string" name="pick_text"/>
+    </declare-styleable>
+</resources>
